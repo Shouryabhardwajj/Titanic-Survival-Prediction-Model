@@ -2,9 +2,7 @@
 
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 [![Python Version](https://img.shields.io/badge/python-3.8.5-brightgreen.svg)](https://www.python.org/downloads/release/python-385/)
-[![GitHub Issues](https://img.shields.io/github/issues/yourusername/your-repository.svg)](https://github.com/Shouryabhardwajj/Titanic-Survival-Prediction-Model/issues)
-[![GitHub Forks](https://img.shields.io/github/forks/yourusername/your-repository.svg)](https://github.com/Shouryabhardwajj/Titanic-Survival-Prediction-Model/network)
-[![GitHub Stars](https://img.shields.io/github/stars/yourusername/your-repository.svg)](https://github.com/Shouryabhardwajj/Titanic-Survival-Prediction-Model/stargazers)
+
 
 ## Overview
 This project aims to predict the survival of passengers on the Titanic using machine learning. Various models and techniques have been employed to achieve an accuracy of at least 80%. The workflow includes data preprocessing, exploratory data analysis (EDA), model training, evaluation, and interpretation.
