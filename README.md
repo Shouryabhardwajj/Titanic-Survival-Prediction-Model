@@ -22,4 +22,12 @@ This project aims to predict the survival of passengers on the Titanic using mac
 - [Model Deployment](#model-deployment)
 - [Monitoring and Maintenance](#monitoring-and-maintenance)
 
+## Getting Started
+
+Welcome to the Titanic Survival Prediction Model! To get started, follow these steps:
+
+1. Clone this repository.
+2. Install dependencies (see [Dependencies](#dependencies)).
+3. Explore the project!
+
 
